@@ -78,9 +78,6 @@ These projects were completed as part of the *CODSOFT Python Programming Interns
 ---
 
 ## ⭐ Thank You
-Thank you for visiting this repository.
-
-Feel free to explore the projects and provide your valuable feedback.
 
 Thank you for visiting this repository.
 
