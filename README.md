@@ -1,4 +1,4 @@
-# 🚀 Python Programming Projects
+# 🚀 Python Beginner Projects
 
 These projects helped me strengthen my Python fundamentals, problem-solving skills, and practical programming knowledge.
 
