@@ -1,6 +1,4 @@
-# 🚀 CODSOFT Python Programming Internship
-
-Welcome to my repository showcasing the projects completed during my Python Programming Internship at CODSOFT.
+# 🚀 Python Programming Projects
 
 These projects helped me strengthen my Python fundamentals, problem-solving skills, and practical programming knowledge.
 
@@ -68,12 +66,6 @@ Through these projects, I enhanced my knowledge of:
 - ⌨️ User Input Handling
 - 🎲 Random Module
 - 🧠 Problem Solving
-
----
-
-## 🎯 Internship Details
-
-These projects were completed as part of the *CODSOFT Python Programming Internship Program*.
 
 ---
 
